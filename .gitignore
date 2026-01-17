@@ -1,8 +1,2 @@
 *~
 *#
-
-*.org
-!README.org
-
-etc/*
-!etc/.gitkeep

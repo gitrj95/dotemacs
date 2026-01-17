@@ -1,1 +1,0 @@
-[[https://rj95.be/em/][em: a minimalist Emacs configuration]]
