@@ -89,3 +89,9 @@
 (use-package magit
   :commands magit-status
   :bind ("C-x g" . magit))
+
+(use-package icomplete
+  :init (icomplete-mode +1))
+
+(use-package completion-preview
+  :config (global-completion-preview-mode +1))
