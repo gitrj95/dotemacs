@@ -87,4 +87,5 @@
   :init (breadcrumb-mode +1))
 
 (use-package magit
+  :commands magit-status
   :bind ("C-x g" . magit))
